@@ -5,10 +5,10 @@ link to postman doc
 https://documenter.getpostman.com/view/29626607/2sA3duGtJT
 
 
-This was develop with node, typescript and express
+This project was develop with node, typescript and express
 
-setup instruction
-1. clone the project
+Setup Instructions
+1. clone the project => git clone  https://github.com/kegoba/logger-libray
 
 2.  navigate to the root folder with => cd logger-libray 
 
@@ -20,5 +20,6 @@ setup instruction
 
 6. input the playload => eg  {"username" : "your username", "password" : "your password" }
 
-7. check on the terminal to see the logs
+7. check on the terminal for the logs
+
 
